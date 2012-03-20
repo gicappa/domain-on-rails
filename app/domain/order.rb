@@ -3,7 +3,11 @@ class Order
     10
   end
 
-  def create
+  def place
 
   end
+end
+
+class LineItem
+  
 end

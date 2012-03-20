@@ -46,6 +46,7 @@ dell'utente. Esempi più comuni e controversi:
   Open Closed Principle
   DIP
   DCI - Uno Use case rappresentato da un oggetto.
+  CQRS
   ...
 
   in un'applicazione la cosa più complessa è scegliere l'astrazione corretta del modello nel
